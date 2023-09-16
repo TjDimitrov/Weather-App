@@ -1,0 +1,73 @@
+('C:\\Program Files\\JetBrains\\PyCharm '
+ '2023.1.1\\PythonTasks\\daily-forecast\\build\\daily-forecast-app\\daily-forecast-app.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\daily-forecast\\build\\daily-forecast-app\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\daily-forecast\\build\\daily-forecast-app\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\daily-forecast\\build\\daily-forecast-app\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\daily-forecast\\build\\daily-forecast-app\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\daily-forecast\\build\\daily-forecast-app\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\daily-forecast\\build\\daily-forecast-app\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('daily-forecast-app',
+   'C:\\Program Files\\JetBrains\\PyCharm '
+   '2023.1.1\\PythonTasks\\daily-forecast\\daily-forecast-app.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

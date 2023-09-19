@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['daily-forecast-app.py'],
+    ['daily-forecast\\daily-forecast-app.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -37,7 +37,7 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['weather_logo.png'],
+    icon=['daily-forecast\\main.png'],
 )
 coll = COLLECT(
     exe,
